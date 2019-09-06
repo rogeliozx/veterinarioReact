@@ -11,6 +11,7 @@ body {
   background-size: cover;
   min-height: 100%;
   padding-bottom: 5rem;
+  color: #0e0e0e !important;
 }
 
 header {
@@ -38,4 +39,7 @@ header h1 {
 }
 .col-form-label {
   font-size: 12px;
+}
+.card{
+  background-color: #ffffff9c !important;
 }
