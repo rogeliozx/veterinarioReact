@@ -1,5 +1,5 @@
 ## Veternario
-este repositorio fue como metodo de practica , usa el localstorage para mantener los datos guardados
+este repositorio fue como metodo de practica , usa el localstorage para mantener los datos guardados de manera temporal.
 
 
 
