@@ -1,3 +1,7 @@
+## Veternario
+este repositorio fue como metodo de practica , usa el localstorage para mantener los datos guardados
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
